@@ -1,44 +1,66 @@
-# AI Collaboration Hub for Hackathons
-Description
+# 🚀 AI Collaboration Hub for Hackathons
 
-The AI Collaboration Hub is a web-based platform designed to supercharge hackathon teams by leveraging Generative AI and multi-agent system intelligence. It helps participants brainstorm ideas, design project architectures, generate starter code, and create documentation—all in real time.
+## 🌟 Overview
+The **AI Collaboration Hub** is your AI-powered hackathon co-pilot. It combines **Generative AI** and **agentic multi-agent intelligence** to help teams:
 
-Unlike traditional tools, this platform uses agentic AI to enable emergent collaboration between specialized agents:
+- Brainstorm **creative project ideas**  
+- Design **scalable architectures**  
+- Generate **starter code & features**  
+- Produce **documentation and pitch decks**  
 
-Idea Agent – generates creative, high-impact project concepts.
+All in **real-time**, so your team can focus on building impactful projects, not repetitive setup tasks.  
 
-Architect Agent – suggests scalable tech stacks and system architecture diagrams.
+---
 
-Code Agent – produces boilerplate code and feature scaffolds.
+## 🧩 How It Works
 
-Documentation Agent – automatically generates README files, API documentation, and pitch decks.
+1. **💡 Idea Generation**  
+   - Enter a theme or problem domain (e.g., “HealthTech”).  
+   - **Idea Agent** proposes 3–5 innovative project concepts.  
+   - Pick your favorite idea to move forward.  
 
-The system is real-time, collaborative, and scalable, allowing teams to focus on building and innovating rather than repetitive setup tasks. This project demonstrates how emergent system intelligence can enhance team productivity and creativity in hackathon settings.
+2. **🛠 Architecture & Tech Stack**  
+   - **Architect Agent** suggests frontend & backend frameworks, databases, and generates a system architecture diagram.  
 
-Features
+3. **💻 Code Generation**  
+   - **Code Agent** scaffolds boilerplate code.  
+   - Add features interactively, e.g., *“Add user login with JWT”*.  
 
-Multi-agent collaboration for project ideation and planning
+4. **📄 Documentation & Pitch**  
+   - **Doc Agent** creates README, API docs, and a pitch slide automatically.  
 
-Auto-generated architecture diagrams and tech stack recommendations
+5. **👥 Team Collaboration**  
+   - Real-time workspace with chat, task tracking, and agent assistance.  
 
-Real-time code scaffolding and feature generation
+---
 
-Automated documentation and pitch deck creation
+## ⚡ Key Features
+- Multi-agent AI collaboration  
+- Auto-generated architecture diagrams  
+- Interactive code scaffolding & feature addition  
+- Automatic documentation & pitch deck creation  
+- Real-time collaborative workspace  
 
-Live collaborative workspace for hackathon teams
+---
 
-Tech Stack
+## 🛠 Tech Stack
+- **Frontend:** Next.js + Tailwind CSS  
+- **Backend:** FastAPI / Node.js  
+- **AI Layer:** LangChain + OpenAI API (multi-agent orchestration)  
+- **Real-Time Collaboration:** WebSockets / Firebase  
+- **Database:** PostgreSQL  
 
-Frontend: Next.js + Tailwind CSS
+---
 
-Backend: FastAPI / Node.js
+## 🎯 Why It Matters
+- Saves hours of setup time during hackathons  
+- Encourages creativity by letting AI handle repetitive tasks  
+- Empowers beginners and experts alike  
+- Demonstrates emergent system intelligence in action  
 
-AI Layer: LangChain / OpenAI API for multi-agent orchestration
+---
 
-Real-time Collaboration: WebSockets / Firebase
-
-Storage: PostgreSQL
-
-Impact
-
-This platform reduces setup time, enhances creativity, and empowers hackathon participants of all skill levels to focus on building meaningful, high-quality projects.
+## 🏁 Getting Started
+1. Clone the repository:  
+```bash
+git clone https://github.com/HMxNikhil/HM.git
