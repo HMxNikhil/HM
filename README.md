@@ -63,4 +63,4 @@ All in **real-time**, so your team can focus on building impactful projects, not
 ## 🏁 Getting Started
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/ai-hackathon-hub.git
+git clone https://github.com/HMxNikhil/HM.git
